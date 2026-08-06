@@ -27,7 +27,7 @@ http://10.11.12.13:3255/gtv/index.m3u8
 http://10.11.12.13:3255/nagorik_r/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="🇧🇩 Bangladesh TV",NTV
 http://10.11.12.13:3255/NTVLive1/index.m3u8
-#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Rtv_bangladesh.svg" group-title="🇧🇩 Bangladesh TV",Channel 9 (NK)
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Rtv_bangladesh.svg" group-title="🇧🇩 Bangladesh TV",RTV
 http://10.11.12.13:3255/RTV/index.m3u8
 #EXTINF:-1 tvg-id="channel-9-nk" tvg-name="Channel 9 (NK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="🇧🇩 Bangladesh TV",Channel 9 (NK)
 http://10.11.12.13:3255/ch9_nk/index.m3u8
