@@ -1,6 +1,8 @@
 #EXTM3U
 
 # ===== 🇧🇩 Bangladesh TV =====
+#EXTINF:-1 tvg-id="ch-24-alt-feed" tvg-name="CH 24 (Alt Feed)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/1280px-Logo_of_Channel_24_%28Bangladesh%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🇧🇩 Bangladesh TV", Channel 24 (ALT)
+http://10.11.12.13:3255/CH24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="jamuna-tv" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/1280px-Jamuna_TV_logo.svg.png" group-title="🇧🇩 Bangladesh TV",Jamuna TV
 http://10.11.12.13:3255/JAMUNATV/index.m3u8
 #EXTINF:-1 tvg-id="somoy-tv-yt" tvg-name="Somoy TV (YT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="🇧🇩 Bangladesh TV",Somoy TV (YT)
@@ -49,7 +51,7 @@ http://10.11.12.13:3255/ptv/index.m3u8
 http://10.11.12.13:3255/ptv_bdix/index.m3u8
 #EXTINF:-1 tvg-id="ptv-nix" tvg-name="PTV (NIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="🏏 Sports",PTV (NIX)
 http://10.11.12.13:3255/ptv_nix/index.m3u8
-#EXTINF:-1 tvg-id="a-sports-hd" tvg-name="A Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="🏏 Sports",A Sports HD
+#EXTINF:-1 tvg-id="a-sports-hd" tvg-name="A Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="🏏 Sports",A Sports HD
 http://10.11.12.13:3255/A-SPORTS-HD/index.m3u8
 #EXTINF:-1 tvg-id="sony-sports-5-hd" tvg-name="Sony Sports 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/sony-ten-5-hd-in.png" group-title="🏏 Sports",Sony Sports 5 HD
 http://10.11.12.13:3255/SONY-SPORTS.5HD/index.m3u8
@@ -74,9 +76,9 @@ http://10.11.12.13:3255/StarSportss2/index.m3u8
 http://10.11.12.13:3255/starjolsha/index.m3u8
 #EXTINF:-1 tvg-id="zee-bangla" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-bangla-in.png" group-title="🎭 Drama & Entertainment",Zee Bangla
 http://10.11.12.13:3255/ZeeBangla/index.m3u8
-#EXTINF:-1 tvg-id="enter10-bangla" tvg-name="Enter10 Bangla" tvg-logo="" group-title="🎭 Drama & Entertainment",Enter10 Bangla
+#EXTINF:-1 tvg-id="enter10-bangla" tvg-name="Enter10 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c9/%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%A7%E0%A7%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="🎭 Drama & Entertainment",Enter10 Bangla
 http://10.11.12.13:3255/ENTER10-BANGLA/index.m3u8
-#EXTINF:-1 tvg-id="hum-masala" tvg-name="Hum Masala" tvg-logo="" group-title="🎭 Drama & Entertainment",Hum Masala
+#EXTINF:-1 tvg-id="hum-masala" tvg-name="Hum Masala" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/06/Logo_Hum_Masala.jpeg/120px-Logo_Hum_Masala.jpeg" group-title="🎭 Drama & Entertainment",Hum Masala
 http://10.11.12.13:3255/HUMMasala/index.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/sony-aath-in.png" group-title="🎭 Drama & Entertainment",Sony Aath
 http://10.11.12.13:3255/SonyAath/index.m3u8
@@ -84,7 +86,7 @@ http://10.11.12.13:3255/SonyAath/index.m3u8
 http://10.11.12.13:3255/SonyEntertainmentTelevisionHD/index.m3u8
 #EXTINF:-1 tvg-id="star-plus" tvg-name="Star Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-plus-in.png" group-title="🎭 Drama & Entertainment",Star Plus
 http://10.11.12.13:3255/Star-Plus/index.m3u8
-#EXTINF:-1 tvg-id="sun-bangla-hd" tvg-name="Sun Bangla HD" tvg-logo="" group-title="🎭 Drama & Entertainment",Sun Bangla HD
+#EXTINF:-1 tvg-id="sun-bangla-hd" tvg-name="Sun Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sun_Bangla_Logo_2026_01.png" group-title="🎭 Drama & Entertainment",Sun Bangla HD
 http://10.11.12.13:3255/SUN-BANGLA-HD/index.m3u8
 #EXTINF:-1 tvg-id="zee-cafe-hd" tvg-name="Zee Cafe HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-cafe-hd-in.png" group-title="🎭 Drama & Entertainment",Zee Cafe HD
 http://10.11.12.13:3255/ZEE-CAFE-HD/index.m3u8
@@ -99,7 +101,7 @@ http://10.11.12.13:3255/COLORS-CINEPLEX-HD/index.m3u8
 http://10.11.12.13:3255/AND-FLIX-HD/index.m3u8
 #EXTINF:-1 tvg-id="prive-hd" tvg-name="&Prive HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/and-prive-hd-in.png" group-title="🎬 Movies",&Prive HD
 http://10.11.12.13:3255/AND-PRIVE-HD/index.m3u8
-#EXTINF:-1 tvg-id="colors-bangla-cinema" tvg-name="Colors Bangla Cinema" tvg-logo="" group-title="🎬 Movies",Colors Bangla Cinema
+#EXTINF:-1 tvg-id="colors-bangla-cinema" tvg-name="Colors Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" group-title="🎬 Movies",Colors Bangla Cinema
 http://10.11.12.13:3255/COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="jalsha-movies-hd" tvg-name="Jalsha Movies HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/jalsha-movies-hd-in.png" group-title="🎬 Movies",Jalsha Movies HD
 http://10.11.12.13:3255/JALSHA-MOVIES-HD/index.m3u8
@@ -119,11 +121,13 @@ http://10.11.12.13:3255/STAR-MOVIES-SEL-HD/index.m3u8
 http://10.11.12.13:3255/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="zee-cinema-hd" tvg-name="Zee Cinema HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-cinema-hd-in.png" group-title="🎬 Movies",Zee Cinema HD
 http://10.11.12.13:3255/ZeeCinemaHD/index.m3u8
+#EXTINF:-1 tvg-id="lotus-tv-hd" tvg-name="Lotus TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="🎬 Movies",Lotus TV HD
+http://10.11.12.13:3255/Lotus-TV-HD/index.m3u8
 
 # ===== 🧒 Kids =====
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/cartoon-network-in.png" group-title="🧒 Kids",Cartoon Network
 http://10.11.12.13:3255/CartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-id="duronto-tv" tvg-name="Duronto TV" tvg-logo="" group-title="🧒 Kids",Duronto TV
+#EXTINF:-1 tvg-id="duronto-tv" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/a/aa/%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A6%A8%E0%A7%8D%E0%A6%A4_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="🧒 Kids",Duronto TV
 http://10.11.12.13:3255/Duronto/index.m3u8
 #EXTINF:-1 tvg-id="etv-bal-bharat" tvg-name="ETV Bal Bharat" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/etv-bal-bharat-in.png" group-title="🧒 Kids",ETV Bal Bharat
 http://10.11.12.13:3255/ETV-BAL-BHARAT/index.m3u8
@@ -151,8 +155,7 @@ http://10.11.12.13:3255/AnimalPlanetHD/index.m3u8
 http://10.11.12.13:3255/BC-Earth-HD/index.m3u8
 #EXTINF:-1 tvg-id="history-tv18-hd" tvg-name="History TV18 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/history-tv18-hd-in.png" group-title="🌍 Documentary",History TV18 HD
 http://10.11.12.13:3255/HISTORY-TV-18-HD/index.m3u8
-#EXTINF:-1 tvg-id="lotus-tv-hd" tvg-name="Lotus TV HD" tvg-logo="" group-title="🌍 Documentary",Lotus TV HD
-http://10.11.12.13:3255/Lotus-TV-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="nat-geo-hd" tvg-name="Nat Geo HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/national-geographic-hd-uk.png" group-title="🌍 Documentary",Nat Geo HD
 http://10.11.12.13:3255/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild-hd" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/national-geographic-wild-hd-uk.png" group-title="🌍 Documentary",Nat Geo Wild HD
@@ -163,7 +166,7 @@ http://10.11.12.13:3255/SONY-BBC/index.m3u8
 http://10.11.12.13:3255/TLCHD/index.m3u8
 #EXTINF:-1 tvg-id="travelxp-hd" tvg-name="TravelXP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/travelxp-hd-in.png" group-title="🌍 Documentary",TravelXP HD
 http://10.11.12.13:3255/TRAVELXP-HD/index.m3u8
-#EXTINF:-1 tvg-id="xplor-hd" tvg-name="Xplor HD" tvg-logo="" group-title="🌍 Documentary",Xplor HD
+#EXTINF:-1 tvg-id="xplor-hd" tvg-name="Xplor HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/%26xplor_HD_2025.svg" group-title="🌍 Documentary",Xplor HD
 http://10.11.12.13:3255/XPLOR-HD/index.m3u8
 
 # ===== 🎵 Music =====
@@ -173,11 +176,11 @@ http://10.11.12.13:3255/ZING-MUSIC/index.m3u8
 http://10.11.12.13:3255/ZOOM-MUSIC/index.m3u8
 
 # ===== 🕌 Religious =====
-#EXTINF:-1 tvg-id="makkah-live" tvg-name="Makkah Live" tvg-logo="" group-title="🕌 Religious",Makkah Live
+#EXTINF:-1 tvg-id="makkah-live" tvg-name="Makkah Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Al-Saudia_TV_Logo_2018.png" group-title="🕌 Religious",Makkah Live
 http://10.11.12.13:3255/MakkahLive/index.m3u8
-#EXTINF:-1 tvg-id="medina-live" tvg-name="Medina Live" tvg-logo="" group-title="🕌 Religious",Medina Live
+#EXTINF:-1 tvg-id="medina-live" tvg-name="Medina Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Al-Saudia_TV_Logo_2018.png" group-title="🕌 Religious",Medina Live
 http://10.11.12.13:3255/MedinawithLive1MedinawithLive/index.m3u8
-#EXTINF:-1 tvg-id="peace-tv-bangla-hd" tvg-name="Peace TV Bangla HD" tvg-logo="" group-title="🕌 Religious",Peace TV Bangla HD
+#EXTINF:-1 tvg-id="peace-tv-bangla-hd" tvg-name="Peace TV Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Peace_TV_official_logo.png/120px-Peace_TV_official_logo.png" group-title="🕌 Religious",Peace TV Bangla HD
 http://10.11.12.13:3255/PEACE-TV-BANGLA-HD/index.m3u8
 
 # ===== 📰 International News =====
@@ -187,13 +190,11 @@ http://10.11.12.13:3255/Aljazeera/index.m3u8
 http://10.11.12.13:3255/cnn/index.m3u8
 #EXTINF:-1 tvg-id="dw-news" tvg-name="DW News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dw-int.png" group-title="📰 International News",DW News
 http://10.11.12.13:3255/DW-NEWS-HD/index.m3u8
-#EXTINF:-1 tvg-id="geo-news-hd" tvg-name="Geo News HD" tvg-logo="" group-title="📰 International News",Geo News HD
+#EXTINF:-1 tvg-id="geo-news-hd" tvg-name="Geo News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="📰 International News",Geo News HD
 http://10.11.12.13:3255/GEO-NEWS-HD/index.m3u8
 
 
 # ===== 📺 Others =====
-#EXTINF:-1 tvg-id="ch-24-alt-feed" tvg-name="CH 24 (Alt Feed)" tvg-logo="" group-title="📺 Others",CH 24 (Alt Feed)
-http://10.11.12.13:3255/CH24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="love-nature-hd" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/love-nature-uk.png" group-title="📺 Others",Love Nature HD
 http://10.11.12.13:3255/LOVE-NATURE-HD/index.m3u8
 #EXTINF:-1 tvg-id="mn-hd" tvg-name="MN+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/mn-plus-hd-in.png" group-title="📺 Others",MN+ HD
