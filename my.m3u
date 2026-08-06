@@ -29,27 +29,27 @@ http://10.11.12.13:3255/NTVLive1/index.m3u8
 http://10.11.12.13:3255/ch9_nk/index.m3u8
 
 # ===== 🏏 Sports =====
-#EXTINF:-1 tvg-id="t-sports-hd-nk-bdix" tvg-name="T Sports HD (NK BDIX)" tvg-logo="" group-title="🏏 Sports",T Sports HD (NK BDIX)
+#EXTINF:-1 tvg-id="t-sports-hd-nk-bdix" tvg-name="T Sports HD (NK BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (NK BDIX)
 http://10.11.12.13:3255/TSportsHD_nk_bdix/index.m3u8
-#EXTINF:-1 tvg-id="t-sports-hd-nk-nix" tvg-name="T Sports HD (NK NIX)" tvg-logo="" group-title="🏏 Sports",T Sports HD (NK NIX)
+#EXTINF:-1 tvg-id="t-sports-hd-nk-nix" tvg-name="T Sports HD (NK NIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (NK NIX)
 http://10.11.12.13:3255/TSportsHD_nk_nix/index.m3u8
-#EXTINF:-1 tvg-id="t-sports-hd-rc-bdix" tvg-name="T Sports HD (RC BDIX)" tvg-logo="" group-title="🏏 Sports",T Sports HD (RC BDIX)
+#EXTINF:-1 tvg-id="t-sports-hd-rc-bdix" tvg-name="T Sports HD (RC BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (RC BDIX)
 http://10.11.12.13:3255/TSportsHD_rc_bdix/index.m3u8
-#EXTINF:-1 tvg-id="t-sports-hd-rc-nix" tvg-name="T Sports HD (RC NIX)" tvg-logo="" group-title="🏏 Sports",T Sports HD (RC NIX)
+#EXTINF:-1 tvg-id="t-sports-hd-rc-nix" tvg-name="T Sports HD (RC NIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (RC NIX)
 http://10.11.12.13:3255/TSportsHD_rc_nix/index.m3u8
-#EXTINF:-1 tvg-id="t-sports-hd-sf-bdix" tvg-name="T Sports HD (SF BDIX)" tvg-logo="" group-title="🏏 Sports",T Sports HD (SF BDIX)
+#EXTINF:-1 tvg-id="t-sports-hd-sf-bdix" tvg-name="T Sports HD (SF BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (SF BDIX)
 http://10.11.12.13:3255/TSportsHD_sf_bdix/index.m3u8
-#EXTINF:-1 tvg-id="t-sports-hd-sf-nix" tvg-name="T Sports HD (SF NIX)" tvg-logo="" group-title="🏏 Sports",T Sports HD (SF NIX)
+#EXTINF:-1 tvg-id="t-sports-hd-sf-nix" tvg-name="T Sports HD (SF NIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (SF NIX)
 http://10.11.12.13:3255/TSportsHD_sf_nix/index.m3u8
 #EXTINF:-1 tvg-id="eurosport-hd" tvg-name="Eurosport HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/eurosport-in.png" group-title="🏏 Sports",Eurosport HD
 http://10.11.12.13:3255/EurosportHD/index.m3u8
-#EXTINF:-1 tvg-id="ptv" tvg-name="PTV" tvg-logo="" group-title="🏏 Sports",PTV
+#EXTINF:-1 tvg-id="ptv" tvg-name="PTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="🏏 Sports",PTV
 http://10.11.12.13:3255/ptv/index.m3u8
-#EXTINF:-1 tvg-id="ptv-bdix" tvg-name="PTV (BDIX)" tvg-logo="" group-title="🏏 Sports",PTV (BDIX)
+#EXTINF:-1 tvg-id="ptv-bdix" tvg-name="PTV (BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="🏏 Sports",PTV (BDIX)
 http://10.11.12.13:3255/ptv_bdix/index.m3u8
-#EXTINF:-1 tvg-id="ptv-nix" tvg-name="PTV (NIX)" tvg-logo="" group-title="🏏 Sports",PTV (NIX)
+#EXTINF:-1 tvg-id="ptv-nix" tvg-name="PTV (NIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="🏏 Sports",PTV (NIX)
 http://10.11.12.13:3255/ptv_nix/index.m3u8
-#EXTINF:-1 tvg-id="a-sports-hd" tvg-name="A Sports HD" tvg-logo="" group-title="🏏 Sports",A Sports HD
+#EXTINF:-1 tvg-id="a-sports-hd" tvg-name="A Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="🏏 Sports",A Sports HD
 http://10.11.12.13:3255/A-SPORTS-HD/index.m3u8
 #EXTINF:-1 tvg-id="sony-sports-5-hd" tvg-name="Sony Sports 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/sony-ten-5-hd-in.png" group-title="🏏 Sports",Sony Sports 5 HD
 http://10.11.12.13:3255/SONY-SPORTS.5HD/index.m3u8
@@ -67,10 +67,6 @@ http://10.11.12.13:3255/StarSports2/index.m3u8
 http://10.11.12.13:3255/StarSportss1/index.m3u8
 #EXTINF:-1 tvg-id="star-sports-2-alt" tvg-name="Star Sports 2 (Alt)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-sports-2-in.png" group-title="🏏 Sports",Star Sports 2 (Alt)
 http://10.11.12.13:3255/StarSportss2/index.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png" group-title="🏏 Sports",beIN Sports 1
-http://10.11.12.13:3255/bein1/index.m3u8
-#EXTINF:-1 tvg-id="bein-sports" tvg-name="beIN Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-middle-east/bein-sports/bein-sports-mea.png" group-title="🏏 Sports",beIN Sports
-http://10.11.12.13:3255/beinspots/index.m3u8
 
 
 # ===== 🎭 Drama & Entertainment =====
