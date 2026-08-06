@@ -1,8 +1,6 @@
 #EXTM3U
 
 # ===== 🇧🇩 Bangladesh TV =====
-#EXTINF:-1 tvg-id="ch-24-alt-feed" tvg-name="CH 24 (Alt Feed)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/1280px-Logo_of_Channel_24_%28Bangladesh%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🇧🇩 Bangladesh TV", Channel 24 (ALT)
-http://10.11.12.13:3255/CH24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="jamuna-tv" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/1280px-Jamuna_TV_logo.svg.png" group-title="🇧🇩 Bangladesh TV",Jamuna TV
 http://10.11.12.13:3255/JAMUNATV/index.m3u8
 #EXTINF:-1 tvg-id="somoy-tv-yt" tvg-name="Somoy TV (YT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="🇧🇩 Bangladesh TV",Somoy TV (YT)
@@ -11,6 +9,8 @@ http://10.11.12.13:3255/somyyt/index.m3u8
 http://10.11.12.13:3255/ekattor_nk/index.m3u8
 #EXTINF:-1 tvg-id="ch24" tvg-name="CH24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg" group-title="🇧🇩 Bangladesh TV",Channel 24
 http://10.11.12.13:3255/CH24/index.m3u8
+#EXTINF:-1 tvg-id="ch-24-alt-feed" tvg-name="CH 24 (Alt Feed)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/1280px-Logo_of_Channel_24_%28Bangladesh%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="🇧🇩 Bangladesh TV", Channel 24 (ALT)
+http://10.11.12.13:3255/CH24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="independent-tv" tvg-name="Independent TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Independent_Television_Logo.svg" group-title="🇧🇩 Bangladesh TV",Independent TV
 http://10.11.12.13:3255/indopendettv/index.m3u8
 #EXTINF:-1 tvg-id="ekhon-tv" tvg-name="Ekhon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Ekhon_Logo.svg" group-title="🇧🇩 Bangladesh TV",Ekhon TV
@@ -27,8 +27,12 @@ http://10.11.12.13:3255/gtv/index.m3u8
 http://10.11.12.13:3255/nagorik_r/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="🇧🇩 Bangladesh TV",NTV
 http://10.11.12.13:3255/NTVLive1/index.m3u8
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Rtv_bangladesh.svg" group-title="🇧🇩 Bangladesh TV",Channel 9 (NK)
+http://10.11.12.13:3255/RTV/index.m3u8
 #EXTINF:-1 tvg-id="channel-9-nk" tvg-name="Channel 9 (NK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="🇧🇩 Bangladesh TV",Channel 9 (NK)
 http://10.11.12.13:3255/ch9_nk/index.m3u8
+
+
 
 # ===== 🏏 Sports =====
 #EXTINF:-1 tvg-id="t-sports-hd-nk-bdix" tvg-name="T Sports HD (NK BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (NK BDIX)
