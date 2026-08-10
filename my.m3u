@@ -1,6 +1,8 @@
 #EXTM3U
 
 # ===== 🇧🇩 Bangladesh TV =====
+#EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/1280px-ATN_News_Logo_without_slogan.svg.png" group-title="🇧🇩 Bangladesh TV",ATN News
+http://zflixbd.com:8083/ATNNews/tracks-v1a1/mono.m3u8?token=c13874938790cf1cf3a574159065b97d94a4c86b-8dcff3f60fcb92bd1d6f29eb762ea82e-1786383614-1786372814
 #EXTINF:-1 tvg-id="News 24" tvg-name="News 24" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png" group-title="🇧🇩 Bangladesh TV",News 24
 http://zflixbd.com:8083/News24/tracks-v1a1/mono.m3u8?token=940c4b039a9f27ca3603f3264674b3a45bc2a793-b87771466b7b32b7fc2ff8e3f7314812-1786382595-1786371795
 #EXTINF:-1 tvg-id="jamuna-tv" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/1280px-Jamuna_TV_logo.svg.png" group-title="🇧🇩 Bangladesh TV",Jamuna TV
@@ -35,6 +37,10 @@ http://10.11.12.13:3255/RTV/index.m3u8
 http://10.11.12.13:3255/ch9_nk/index.m3u8
 #EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1280px-Logo_of_Deepto_TV.svg.png" group-title="🇧🇩 Bangladesh TV",Deepto TV
 http://zflixbd.com:8083/DeeptoTV/tracks-v1a1/mono.m3u8?token=d998477e405832fc5958ad28e62ec2e0a41b4ebe-40dd0912bff8582f53a7f94a40fc9181-1786382850-1786372050
+#EXTINF:-1 tvg-id="ETV" tvg-name="ETV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" group-title="🇧🇩 Bangladesh TV",ETV
+http://zflixbd.com:8083/ETV/tracks-v1a1/mono.m3u8?token=a159c52a98840424edf7d3b937bf7b5758623290-4b7bb572f1399d14414ff891b709ab4e-1786383071-1786372271
+#EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1280px-ATN_Bangla.svg.png" group-title="🇧🇩 Bangladesh TV",ATN Bangla
+http://zflixbd.com:8083/ATNBangla/tracks-v1a1/mono.m3u8?token=279ae904c50a8eb2074077b2ac1da57807bdb1f4-12e63c50a63e8bff9eb6c912647f2456-1786383459-1786372659
 
 # ===== 🏏 Sports =====
 #EXTINF:-1 tvg-id="t-sports-hd-nk-bdix" tvg-name="T Sports HD (NK BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (NK BDIX)
