@@ -167,7 +167,7 @@ http://10.11.12.13:3255/SONY-YAY/index.m3u8
 http://10.11.12.13:3255/SUPER-HUNGAMA/index.m3u8
 
 # ===== 🌍 Documentary =====
-#EXTINF:-1 tvg-id="animal-planet-hd" tvg-name="Animal Planet HD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Symbol.png" group-title="🌍 Documentary",Discovery HD
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Symbol.png" group-title="🌍 Documentary",Discovery HD
 http://10.11.12.13:3255/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="animal-planet-hd" tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/animal-planet-hd-uk.png" group-title="🌍 Documentary",Animal Planet HD
 http://10.11.12.13:3255/AnimalPlanetHD/index.m3u8
