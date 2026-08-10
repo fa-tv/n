@@ -1,6 +1,8 @@
 #EXTM3U
 
 # ===== 🇧🇩 Bangladesh TV =====
+#EXTINF:-1 tvg-id="News 24" tvg-name="News 24" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png" group-title="🇧🇩 Bangladesh TV",News 24
+http://zflixbd.com:8083/News24/tracks-v1a1/mono.m3u8?token=940c4b039a9f27ca3603f3264674b3a45bc2a793-b87771466b7b32b7fc2ff8e3f7314812-1786382595-1786371795
 #EXTINF:-1 tvg-id="jamuna-tv" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/1280px-Jamuna_TV_logo.svg.png" group-title="🇧🇩 Bangladesh TV",Jamuna TV
 http://10.11.12.13:3255/JAMUNATV/index.m3u8
 #EXTINF:-1 tvg-id="somoy-tv-yt" tvg-name="Somoy TV (YT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="🇧🇩 Bangladesh TV",Somoy TV (YT)
@@ -31,8 +33,8 @@ http://10.11.12.13:3255/NTVLive1/index.m3u8
 http://10.11.12.13:3255/RTV/index.m3u8
 #EXTINF:-1 tvg-id="channel-9-nk" tvg-name="Channel 9 (NK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="🇧🇩 Bangladesh TV",Channel 9 (NK)
 http://10.11.12.13:3255/ch9_nk/index.m3u8
-
-
+#EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1280px-Logo_of_Deepto_TV.svg.png" group-title="🇧🇩 Bangladesh TV",Deepto TV
+http://zflixbd.com:8083/DeeptoTV/tracks-v1a1/mono.m3u8?token=d998477e405832fc5958ad28e62ec2e0a41b4ebe-40dd0912bff8582f53a7f94a40fc9181-1786382850-1786372050
 
 # ===== 🏏 Sports =====
 #EXTINF:-1 tvg-id="t-sports-hd-nk-bdix" tvg-name="T Sports HD (NK BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (NK BDIX)
