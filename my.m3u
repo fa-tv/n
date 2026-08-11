@@ -2,10 +2,9 @@
 
 # ===== 🇧🇩 Bangladesh TV =====
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/1280px-ATN_News_Logo_without_slogan.svg.png" group-title="🇧🇩 Bangladesh TV",ATN News
-http://zflixbd.com:8083/ATNNews/tracks-v1a1/mono.m3u8?token=c13874938790cf1cf3a574159065b97d94a4c86b-8dcff3f60fcb92bd1d6f29eb762ea82e-1786383614-1786372814
+http://zflixbd.com:8083/ATNNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="News 24" tvg-name="News 24" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png" group-title="🇧🇩 Bangladesh TV",News 24
-http://zflixbd.com:8083/News24/tracks-v1a1/mono.m3u8?token=940c4b039a9f27ca3603f3264674b3a45bc2a793-b87771466b7b32b7fc2ff8e3f7314812-1786382595-1786371795
-
+http://zflixbd.com:8083/News24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="jamuna-tv" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/1280px-Jamuna_TV_logo.svg.png" group-title="🇧🇩 Bangladesh TV",Jamuna TV
 http://10.11.12.13:3255/JAMUNATV/index.m3u8
 #EXTINF:-1 tvg-id="somoy-tv-yt" tvg-name="Somoy TV (YT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="🇧🇩 Bangladesh TV",Somoy TV (YT)
