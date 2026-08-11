@@ -1,10 +1,7 @@
 #EXTM3U
 
 # ===== 🇧🇩 Bangladesh TV =====
-#EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/1280px-ATN_News_Logo_without_slogan.svg.png" group-title="🇧🇩 Bangladesh TV",ATN News
-http://zflixbd.com:8083/ATNNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="News 24" tvg-name="News 24" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png" group-title="🇧🇩 Bangladesh TV",News 24
-http://zflixbd.com:8083/News24/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="jamuna-tv" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/1280px-Jamuna_TV_logo.svg.png" group-title="🇧🇩 Bangladesh TV",Jamuna TV
 http://10.11.12.13:3255/JAMUNATV/index.m3u8
 #EXTINF:-1 tvg-id="somoy-tv-yt" tvg-name="Somoy TV (YT)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="🇧🇩 Bangladesh TV",Somoy TV (YT)
@@ -35,13 +32,6 @@ http://10.11.12.13:3255/NTVLive1/index.m3u8
 http://10.11.12.13:3255/RTV/index.m3u8
 #EXTINF:-1 tvg-id="channel-9-nk" tvg-name="Channel 9 (NK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="🇧🇩 Bangladesh TV",Channel 9 (NK)
 http://10.11.12.13:3255/ch9_nk/index.m3u8
-
-#EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1280px-Logo_of_Deepto_TV.svg.png" group-title="🇧🇩 Bangladesh TV",Deepto TV
-http://zflixbd.com:8083/DeeptoTV/tracks-v1a1/mono.m3u8?token=d998477e405832fc5958ad28e62ec2e0a41b4ebe-40dd0912bff8582f53a7f94a40fc9181-1786382850-1786372050
-#EXTINF:-1 tvg-id="ETV" tvg-name="ETV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" group-title="🇧🇩 Bangladesh TV",ETV
-http://zflixbd.com:8083/ETV/tracks-v1a1/mono.m3u8?token=a159c52a98840424edf7d3b937bf7b5758623290-4b7bb572f1399d14414ff891b709ab4e-1786383071-1786372271
-#EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1280px-ATN_Bangla.svg.png" group-title="🇧🇩 Bangladesh TV",ATN Bangla
-http://zflixbd.com:8083/ATNBangla/tracks-v1a1/mono.m3u8?token=279ae904c50a8eb2074077b2ac1da57807bdb1f4-12e63c50a63e8bff9eb6c912647f2456-1786383459-1786372659
 
 # ===== 🏏 Sports =====
 #EXTINF:-1 tvg-id="t-sports-hd-nk-bdix" tvg-name="T Sports HD (NK BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (NK BDIX)
@@ -88,14 +78,10 @@ http://10.11.12.13:3255/StarSportss2/index.m3u8
 #EXTINF:-1 tvg-id="star-jalsha" tvg-name="Star Jalsha" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-jalsha-in.png" group-title="🎭 Drama & Entertainment",Star Jalsha
 http://10.11.12.13:3255/starjolsha/index.m3u8
 
-#EXTINF:-1 tvg-id="star-jalsha 2" tvg-name="Star Jalsha 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/star-jalsha-in.png" group-title="🎭 Drama & Entertainment",Star Jalsha 2
-http://zflixbd.com:8083/StarJalshaHD/tracks-v1a1/mono.m3u8?token=83e58cdf7b10028aba72aaea6c35184e4e5668b7-ee4e17c51b18c7f6a8a85a1c12c15348-1786383397-1786372597
-
 #EXTINF:-1 tvg-id="zee-bangla" tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-bangla-in.png" group-title="🎭 Drama & Entertainment",Zee Bangla
 http://10.11.12.13:3255/ZeeBangla/index.m3u8
 
-
-#EXTINF:-1 tvg-id="enter10-bangla" tvg-name="Enter10 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c9/%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%A7%E0%A7%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="🎭 Drama & Entertainment",Enter10 Bangla
+#EXTINF:-1 tvg-id="enter10-bangla" tvg-name="Enter10 Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png" group-title="🎭 Drama & Entertainment",Enter10 Bangla
 http://10.11.12.13:3255/ENTER10-BANGLA/index.m3u8
 #EXTINF:-1 tvg-id="hum-masala" tvg-name="Hum Masala" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/06/Logo_Hum_Masala.jpeg/120px-Logo_Hum_Masala.jpeg" group-title="🎭 Drama & Entertainment",Hum Masala
 http://10.11.12.13:3255/HUMMasala/index.m3u8
