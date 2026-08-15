@@ -36,10 +36,6 @@ http://10.11.12.13:3255/ch9_nk/index.m3u8
 # ===== 🏏 Sports =====
 #EXTINF:-1 tvg-id="Unite8 Sports 2" tvg-name="Unite8 Sports 2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png" group-title="🏏 Sports",Unite8 Sports 2
 http://10.11.12.13:3255/AND-FLIX-HD/index.m3u8
-#EXTINF:-1 tvg-id="t-sports-hd-nk-bdix" tvg-name="T Sports HD (NK BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (NK BDIX)
-http://10.11.12.13:3255/TSportsHD_nk_bdix/index.m3u8
-#EXTINF:-1 tvg-id="t-sports-hd-nk-nix" tvg-name="T Sports HD (NK NIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (NK NIX)
-http://10.11.12.13:3255/TSportsHD_nk_nix/index.m3u8
 #EXTINF:-1 tvg-id="t-sports-hd-rc-bdix" tvg-name="T Sports HD (RC BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (RC BDIX)
 http://10.11.12.13:3255/TSportsHD_rc_bdix/index.m3u8
 #EXTINF:-1 tvg-id="t-sports-hd-rc-nix" tvg-name="T Sports HD (RC NIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (RC NIX)
@@ -206,3 +202,8 @@ http://10.11.12.13:3255/LOVE-NATURE-HD/index.m3u8
 http://10.11.12.13:3255/MN-PLUS-HD/index.m3u8
 #EXTINF:-1 tvg-id="romedy-now" tvg-name="Romedy Now" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/romedy-now-in.png" group-title="📺 Others",Romedy Now
 http://10.11.12.13:3255/ROMEDY-NOW/index.m3u8
+
+#EXTINF:-1 tvg-id="t-sports-hd-nk-bdix" tvg-name="T Sports HD (NK BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="📺 Others",T Sports HD (NK BDIX)
+http://10.11.12.13:3255/TSportsHD_nk_bdix/index.m3u8
+#EXTINF:-1 tvg-id="t-sports-hd-nk-nix" tvg-name="T Sports HD (NK NIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="📺 Others",T Sports HD (NK NIX)
+http://10.11.12.13:3255/TSportsHD_nk_nix/index.m3u8
