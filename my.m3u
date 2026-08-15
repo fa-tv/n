@@ -34,6 +34,8 @@ http://10.11.12.13:3255/RTV/index.m3u8
 http://10.11.12.13:3255/ch9_nk/index.m3u8
 
 # ===== 🏏 Sports =====
+#EXTINF:-1 tvg-id="Unite8 Sports 2" tvg-name="Unite8 Sports 2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png" group-title="🏏 Sports",Unite8 Sports 2
+http://10.11.12.13:3255/AND-FLIX-HD/index.m3u8
 #EXTINF:-1 tvg-id="t-sports-hd-nk-bdix" tvg-name="T Sports HD (NK BDIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (NK BDIX)
 http://10.11.12.13:3255/TSportsHD_nk_bdix/index.m3u8
 #EXTINF:-1 tvg-id="t-sports-hd-nk-nix" tvg-name="T Sports HD (NK NIX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="🏏 Sports",T Sports HD (NK NIX)
@@ -102,8 +104,6 @@ http://10.11.12.13:3255/COLORS-CINEPLEX-HD/index.m3u8
 
 
 # ===== 🎬 Movies =====
-#EXTINF:-1 tvg-id="flix-hd" tvg-name="&flix HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/and-flix-hd-in.png" group-title="🎬 Movies",&flix HD
-http://10.11.12.13:3255/AND-FLIX-HD/index.m3u8
 #EXTINF:-1 tvg-id="prive-hd" tvg-name="&Prive HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/and-prive-hd-in.png" group-title="🎬 Movies",&Prive HD
 http://10.11.12.13:3255/AND-PRIVE-HD/index.m3u8
 #EXTINF:-1 tvg-id="colors-bangla-cinema" tvg-name="Colors Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" group-title="🎬 Movies",Colors Bangla Cinema
